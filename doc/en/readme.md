@@ -1,4 +1,4 @@
-### NVDA Speech Logger add-on
+### NVDA Speech Broadcaster add-on
 
 Author: Pruthivi Raj
 
